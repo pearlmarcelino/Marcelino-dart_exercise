@@ -2,6 +2,8 @@ void main() {
   String customerName = 'Maria Santos';
   int cupsOrdered = 5;
   double pricePerCup = 115.50;
+  bool hasLoyaltyCard = true;
+
 
   double subtotal = cupsOrdered * pricePerCup;
   
@@ -21,4 +23,6 @@ void main() {
   print('Discount: PHP $discount');
   print('Final Total: PHP $finalTotal');
   print('Qualifies for Bulk Discount? $qualifiesForBulkDiscount');
+  print('Loyalty Member Status: $hasLoyaltyCard');
+
 }
