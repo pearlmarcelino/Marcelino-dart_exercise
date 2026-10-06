@@ -1,0 +1,9 @@
+[Running] dart "c:\users\pearl\Desktop\DartAct1\dart-exercise\bin\dart_exercises.dart"
+Customer Name: Maria Santos
+Cups Ordered: 5
+Subtotal: PHP 577.5
+Free Pastries Earned: 2
+Qualifies for Bulk Discount? true
+Loyalty Member Status: true
+
+[Done] exited with code=0 in 0.373 seconds
